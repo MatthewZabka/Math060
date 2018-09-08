@@ -1,2 +1,2 @@
 # Math060
-This is join project for three professors teaching the same remedial math class.
+This is joint project for three professors teaching the same remedial math class.
